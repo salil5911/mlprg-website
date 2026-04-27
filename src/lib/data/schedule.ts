@@ -120,7 +120,7 @@ export const SCHEDULE: Meeting[] = [
 		term: 'Spring 2026',
 		meetingLabel: 'Meeting 7',
 		date: '2026-04-27',
-		paperTitle: 'TBD',
+		paperTitle: 'Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation',
 		leaders: 'Salil',
 		time: SPRING_TIME,
 		location: HYBRID_LOCATION
